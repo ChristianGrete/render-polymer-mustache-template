@@ -1,6 +1,6 @@
 # render-polymer-mustache-template
 
-> The [Polymer](https://www.polymer-project.org) [Mustache](https://mustache.github.io) template renderer
+> The [Polymer](https://www.polymer-project.org) [Mustache](https://mustache.github.io) [template](https://github.com/ChristianGrete/polymer-mustache-template) renderer
 
 ## Policy
 
